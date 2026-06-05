@@ -12,19 +12,6 @@ Backend: Node.js with Express.js
 Database: MongoDB
 Language: JavaScript
 
-///////////////////////////////////////////////////
-Project Structure
-text
-ai_genie/
-├── frontend/          # React frontend application
-├── backend/           # Node.js backend API
-└── .gitignore        # Git ignore file
-Features
-Responsive web design
-RESTful API integration
-MongoDB database connection
-Modern UI with CSS
-Full-stack MERN architecture
 
 ///////////////////////////////////////////////////
 Installation
@@ -84,10 +71,6 @@ Building complete web applications from scratch
 Integrating frontend with backend services
 Managing state in React applications
 
-///////////////////////////////////////////////////
-Creating RESTful APIs
-Handling database operations
-Deploying MERN applications
 
 ///////////////////////////////////////////////////
 Future Improvements
