@@ -88,8 +88,6 @@ Contact
 For any queries regarding this project, please create an issue in the repository.
 Email: sanafatimacs46@gmail.com
 
-## Project Presentation
-
-Download my FYP presentation: [Click here]## Project Image
+## Project Image:
 
 ![Project ](https://raw.githubusercontent.com/Sanafatima46/ai_genie/main/my%20readme.PNG)
