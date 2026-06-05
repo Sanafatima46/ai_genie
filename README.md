@@ -107,5 +107,6 @@ Email: sanafatimacs46@gmail.com
 
 ## Project Presentation
 
-Download my FYP presentation: [Click here](./presentation.pdf)
+Download my FYP presentation: [Click here]((https://github.com/Sanafatima46/ai_genie/blob/07f898164208b3cac53b8cfba59853dfa1825914/COMPF22BSR46%2C18_FYP.pdf))
+
 
